@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Demohsp/static/css/main.f7db0086.css",
+    "main.js": "/Demohsp/static/js/main.8e09d7bc.js",
+    "static/js/453.98c97660.chunk.js": "/Demohsp/static/js/453.98c97660.chunk.js",
+    "index.html": "/Demohsp/index.html",
+    "main.f7db0086.css.map": "/Demohsp/static/css/main.f7db0086.css.map",
+    "main.8e09d7bc.js.map": "/Demohsp/static/js/main.8e09d7bc.js.map",
+    "453.98c97660.chunk.js.map": "/Demohsp/static/js/453.98c97660.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7db0086.css",
+    "static/js/main.8e09d7bc.js"
+  ]
+}
